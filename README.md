@@ -47,6 +47,8 @@ Finally run
 npm start
 ```
 
+Can be accessed at [http://localhost:3000/](http://localhost:3000/)
+
 ##Contents
 
 * /public - static directories suchs as /images
