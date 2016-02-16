@@ -89,4 +89,4 @@ function onListening() {
   debug('Listening on ' + bind);
 }
 
-console.log('Web Server started, accessible at http://localhost:3000');
+console.log('Web Server started, accessible at http://localhost:' + port);
